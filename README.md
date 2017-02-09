@@ -1,3 +1,3 @@
-# sites-enabled
+# Sites enabled config file
 
-An example apache2 conf file for setting up development websites on linux without xammp, don't forget to the edit the /etc/hosts file as well for local development.
+An example apache2 config file for setting up development websites on Linux creating a symbolic link to files.
